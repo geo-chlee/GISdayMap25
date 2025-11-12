@@ -1,0 +1,24 @@
+﻿,mean,mean,mean,mean,mean,std,std,std,std,std
+,MEDIAN,MEDIAN,MEDIAN,MEDIAN,MEDIAN,MEDIAN,MEDIAN,MEDIAN,MEDIAN,MEDIAN
+ASSOC_CAT,High-High,High-Low,Low-High,Low-Low,Not Significant,High-High,High-Low,Low-High,Low-Low,Not Significant
+RowLabel,,,,,,,,,,
+Artificial use | Building site,0.093,0.109,-0.182,-0.241,-0.052,0.135,0.131,0.149,0.164,0.125
+Artificial use | Drainage,0.086,0.089,-0.132,-0.176,-0.018,0.127,0.137,0.146,0.145,0.128
+Artificial use | Factory site,-0.051,0.063,-0.153,-0.172,-0.062,0.163,0.130,0.151,0.153,0.116
+Artificial use | Gas station,0.068,-0.004,-0.276,-0.235,-0.073,0.000,0.041,0.098,0.181,0.158
+Artificial use | Parking lot,0.055,0.036,-0.183,-0.152,-0.080,0.000,0.139,0.089,0.147,0.096
+Artificial use | Railroad site,0.000,0.130,-0.259,-0.164,-0.040,0.000,0.026,0.000,0.139,0.115
+Artificial use | Religious site,0.068,0.150,-0.209,-0.239,-0.056,0.122,0.145,0.179,0.169,0.140
+Artificial use | Road,0.107,0.080,-0.174,-0.191,-0.042,0.144,0.130,0.154,0.143,0.131
+Artificial use | Warehouse,0.082,0.078,-0.194,-0.195,-0.059,0.156,0.164,0.151,0.151,0.133
+Natural use | Cemetery,0.095,0.097,-0.159,-0.153,-0.013,0.142,0.163,0.129,0.121,0.148
+Natural use | Farmland,0.090,0.094,-0.153,-0.163,-0.020,0.133,0.134,0.135,0.148,0.138
+Natural use | Forest,0.060,0.078,-0.129,-0.137,-0.017,0.119,0.133,0.140,0.135,0.115
+Natural use | Orchard,0.073,0.135,-0.151,-0.135,-0.026,0.126,0.158,0.128,0.140,0.143
+Natural use | Park area,0.000,-0.056,-0.088,-0.160,-0.052,0.000,0.020,0.166,0.117,0.109
+Natural use | Ranch,0.046,0.112,-0.115,-0.258,-0.029,0.114,0.111,0.206,0.121,0.144
+Natural use | Reservoir,0.075,0.065,-0.103,-0.139,-0.037,0.111,0.129,0.090,0.112,0.112
+Natural use | Rice paddy,0.143,0.142,-0.167,-0.184,-0.011,0.160,0.164,0.156,0.151,0.149
+Natural use | River,0.075,0.091,-0.148,-0.189,-0.023,0.135,0.129,0.147,0.200,0.126
+Mixed use | Miscellaneous land,0.059,0.096,-0.157,-0.178,-0.053,0.150,0.144,0.143,0.155,0.133
+Mixed use | School site,0.018,0.047,-0.171,-0.173,-0.030,0.087,0.139,0.192,0.121,0.126

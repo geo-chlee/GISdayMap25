@@ -1,0 +1,27 @@
+﻿,sum,sum,sum,sum,sum
+,Shape_Area,Shape_Area,Shape_Area,Shape_Area,Shape_Area
+ASSOC_CAT,High-High,High-Low,Low-High,Low-Low,Not Significant
+RowLabel,,,,,
+Artificial use | Building site,346089,520057,755398,3094075,5648372
+Artificial use | Drainage,776675,327652,219923,127479,1426000
+Artificial use | Embankment,21421,10257,145,4420,45308
+Artificial use | Factory site,16490,136924,67753,582874,1614378
+Artificial use | Gas station,1008,5324,3152,14386,44025
+Artificial use | Parking lot,669,12272,5416,25669,32983
+Artificial use | Railroad site,0,5963,2367,11983,161019
+Artificial use | Religious site,18036,51274,20490,12025,80138
+Artificial use | Road,494471,721607,429334,1634575,3929049
+Artificial use | Warehouse,25543,39313,39330,32662,104531
+Artificial use | Water supply site,896,1360,821,1532,20801
+Natural use | Cemetery,88311,59315,34177,32128,333913
+Natural use | Farmland,881801,1167337,551556,664025,4007294
+Natural use | Forest,13222612,9082483,5067390,3438801,38500600
+Natural use | Orchard,156335,124459,123636,39193,1153402
+Natural use | Park area,0,16281,2613,160051,323697
+Natural use | Ranch,74887,15765,77555,10222,150493
+Natural use | Reservoir,104200,60321,30013,17319,412665
+Natural use | Rice paddy,6410808,4961134,1750403,1381886,9656510
+Natural use | River,921004,800977,433017,85410,1890388
+Mixed use | Miscellaneous land,94568,148423,151175,153510,631422
+Mixed use | School site,30821,26128,63437,369923,723633
+Mixed use | Sports facility,16578,8372,0,56399,57498
